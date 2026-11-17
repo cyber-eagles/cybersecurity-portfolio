@@ -9,6 +9,18 @@ this portfolio highlights my hands-on experience with digital forensic investiga
 
 this section contains investigative reports completed throughout my coursework. each report documents the tools, methods, evidence, and conclusions associated with an investigation.
 
+**01. precious investigation**
+
+[view investigation report](digital-forensics-reports/01%20precious%20investigation.docx)
+
+**02. mantooth investigation**
+
+[view investigation report](digital-forensics-reports/02%20mantooth%20investigation.docx)
+
+**03. washer investigation**
+
+[view investigation report](digital-forensics-reports/03%20washer%20investigation.docx)
+
 
 *tools used
 
