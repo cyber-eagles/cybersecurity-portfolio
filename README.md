@@ -11,15 +11,15 @@ this section contains investigative reports completed throughout my coursework. 
 
 **01. precious investigation**
 
-[view investigation report](digital-forensics-reports/01%20precious%20investigation.docx)
+[view investigation report](digital%20forensics%20reports/01%20precious%20investigation.docx)
 
 **02. mantooth investigation**
 
-[view investigation report](digital-forensics-reports/02%20mantooth%20investigation.docx)
+[view investigation report](digital%20forensics%20reports/02%20mantooth%20investigation.docx)
 
 **03. washer investigation**
 
-[view investigation report](digital-forensics-reports/03%20washer%20investigation.docx)
+[view investigation report](digital%20forensics%20reports/03%20washer%20investigation.docx)
 
 
 *tools used
